@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Venkat Reddy</h1>
 <h3 align="center">DevOps Engineer</h3>
+<h2 align="center">
+    Trained By:
+    <a href="https://github.com/RajinikanthVadla" target="_blank">#The Remo
+      <h2 align="center">
+            <img align="center" src="https://github.com/Venkatareddy1714/Venkatareddy1714/blob/main/Raham.jpeg" width="300" />
+        </h2>
+    </a>
+</h2>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatareddy1714&label=Profile%20views&color=0e75b6&style=flat" alt="venkatareddy1714" /> </p>
 
